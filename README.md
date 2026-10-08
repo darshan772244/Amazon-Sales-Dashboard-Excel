@@ -7,7 +7,7 @@ The dashboard provides a visual overview of sales performance, orders, customers
 The project was created as a practical data analytics / MIS reporting project.
 
 ## Dataset used
-https://github.com/darshan772244/Amazon-Sales-Dashboard-Excel/blob/main/Amazon_Sales_Analytics_Dashboard.xlsx
+- <a href="https://github.com/darshan772244/Amazon-Sales-Dashboard-Excel/blob/main/Amazon_Sales_Analytics_Dashboard.xlsx">Dataset</a>
 
 ## Tools Used
 
