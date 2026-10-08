@@ -16,7 +16,7 @@ The project was created as a practical data analytics / MIS reporting project.
 
 ## Tools Used
 
-- Microsoft Excel 2019
+- Microsoft Excel 
 - Pivot Tables
 - Pivot Charts
 - Slicers
