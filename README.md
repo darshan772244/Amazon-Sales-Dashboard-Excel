@@ -10,7 +10,9 @@ The project was created as a practical data analytics / MIS reporting project.
 - <a href="https://github.com/darshan772244/Amazon-Sales-Dashboard-Excel/blob/main/Amazon_Sales_Analytics_Dashboard.xlsx">Dataset</a>
 
 ## Dashboard Image
-- <a href="https://github.com/darshan772244/Amazon-Sales-Dashboard-Excel/blob/main/Amazon_Sales_Dashboard.PNG">View Dashboard</a>
+
+<img width="1270" height="657" alt="Amazon_Sales_Dashboard" src="https://github.com/user-attachments/assets/dc21b348-c81a-46e1-8555-b16294028c8d" />
+
 
 ## Tools Used
 
