@@ -11,9 +11,8 @@ The project was created as a practical data analytics / MIS reporting project.
 
 ## Dashboard Image
 
-<p align="center">
-  <img src="Amazon_Sales_Dashboard.png" width="1200">
-</p>
+<img width="1270" height="657" alt="Amazon_Sales_Dashboard" src="https://github.com/user-attachments/assets/a757df59-3e38-4678-aec7-5d4a550704d0" />
+
 
 
 ## Tools Used
