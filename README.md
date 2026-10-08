@@ -12,7 +12,7 @@ The project was created as a practical data analytics / MIS reporting project.
 ## Dashboard Image
 
 <p align="center">
-  <img src="Screenshots/Amazon_Sales_Dashboard.png" width="1200">
+  <img src="Amazon_Sales_Dashboard.png" width="1200">
 </p>
 
 
