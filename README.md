@@ -6,6 +6,10 @@ This project is an interactive Amazon Sales Dashboard created using Microsoft Ex
 The dashboard provides a visual overview of sales performance, orders, customers, products, payment methods and order status.
 The project was created as a practical data analytics / MIS reporting project.
 
+## Dashboard Preview
+
+![Amazon Sales Dashboard](Screenshots/Amazon_Sales_Dashboard.png)
+
 ## Tools Used
 
 - Microsoft Excel 2019
