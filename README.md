@@ -9,6 +9,9 @@ The project was created as a practical data analytics / MIS reporting project.
 ## Dataset used
 - <a href="https://github.com/darshan772244/Amazon-Sales-Dashboard-Excel/blob/main/Amazon_Sales_Analytics_Dashboard.xlsx">Dataset</a>
 
+## Dashboard Image
+- <a href="https://github.com/darshan772244/Amazon-Sales-Dashboard-Excel/blob/main/Amazon_Sales_Dashboard.PNG">
+
 ## Tools Used
 
 - Microsoft Excel 2019
